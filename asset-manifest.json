@@ -1,0 +1,13 @@
+{
+  "main.css": "/kickstarter-app/static/css/main.ab9e7865.chunk.css",
+  "main.js": "/kickstarter-app/static/js/main.1bd2084e.chunk.js",
+  "main.js.map": "/kickstarter-app/static/js/main.1bd2084e.chunk.js.map",
+  "static/js/1.6eb6405c.chunk.js": "/kickstarter-app/static/js/1.6eb6405c.chunk.js",
+  "static/js/1.6eb6405c.chunk.js.map": "/kickstarter-app/static/js/1.6eb6405c.chunk.js.map",
+  "runtime~main.js": "/kickstarter-app/static/js/runtime~main.54718e22.js",
+  "runtime~main.js.map": "/kickstarter-app/static/js/runtime~main.54718e22.js.map",
+  "static/css/main.ab9e7865.chunk.css.map": "/kickstarter-app/static/css/main.ab9e7865.chunk.css.map",
+  "index.html": "/kickstarter-app/index.html",
+  "precache-manifest.dd7f8932dd48e1ba2eeb4df9291df26b.js": "/kickstarter-app/precache-manifest.dd7f8932dd48e1ba2eeb4df9291df26b.js",
+  "service-worker.js": "/kickstarter-app/service-worker.js"
+}
