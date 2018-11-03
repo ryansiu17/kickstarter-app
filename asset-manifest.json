@@ -1,13 +1,16 @@
 {
-  "main.css": "/kickstarter-app/static/css/main.ab9e7865.chunk.css",
-  "main.js": "/kickstarter-app/static/js/main.1bd2084e.chunk.js",
-  "main.js.map": "/kickstarter-app/static/js/main.1bd2084e.chunk.js.map",
-  "static/js/1.6eb6405c.chunk.js": "/kickstarter-app/static/js/1.6eb6405c.chunk.js",
-  "static/js/1.6eb6405c.chunk.js.map": "/kickstarter-app/static/js/1.6eb6405c.chunk.js.map",
+  "main.css": "/kickstarter-app/static/css/main.55914961.chunk.css",
+  "main.js": "/kickstarter-app/static/js/main.373663e0.chunk.js",
+  "main.js.map": "/kickstarter-app/static/js/main.373663e0.chunk.js.map",
+  "static/js/1.9cd4acff.chunk.js": "/kickstarter-app/static/js/1.9cd4acff.chunk.js",
+  "static/js/1.9cd4acff.chunk.js.map": "/kickstarter-app/static/js/1.9cd4acff.chunk.js.map",
   "runtime~main.js": "/kickstarter-app/static/js/runtime~main.54718e22.js",
   "runtime~main.js.map": "/kickstarter-app/static/js/runtime~main.54718e22.js.map",
-  "static/css/main.ab9e7865.chunk.css.map": "/kickstarter-app/static/css/main.ab9e7865.chunk.css.map",
+  "static/css/main.55914961.chunk.css.map": "/kickstarter-app/static/css/main.55914961.chunk.css.map",
+  "static/media/usd-pledged-vs-main-catagory.png": "/kickstarter-app/static/media/usd-pledged-vs-main-catagory.af2d971d.png",
+  "static/media/catagory-size.png": "/kickstarter-app/static/media/catagory-size.d7bc76a3.png",
+  "static/media/sdds.png": "/kickstarter-app/static/media/sdds.c4dbbfa6.png",
   "index.html": "/kickstarter-app/index.html",
-  "precache-manifest.dd7f8932dd48e1ba2eeb4df9291df26b.js": "/kickstarter-app/precache-manifest.dd7f8932dd48e1ba2eeb4df9291df26b.js",
+  "precache-manifest.6c2c16532ee36d6c96966bce01cb20bb.js": "/kickstarter-app/precache-manifest.6c2c16532ee36d6c96966bce01cb20bb.js",
   "service-worker.js": "/kickstarter-app/service-worker.js"
 }
