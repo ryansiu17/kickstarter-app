@@ -1,0 +1,73 @@
+@import "./variables.scss";
+.app {
+  height: 300vh;
+  display: grid;
+  grid-template-rows: 1.2fr 1fr 1fr 1fr;
+  grid-template-areas: "title" "info1" "info2" "info3";
+}
+
+.title {
+  background-color: $title-background;
+  grid-area: title;
+  text-align: center;
+  text-shadow: 2px 4px 10px rgba(0,0,0,0.3);
+}
+.titleHeader {
+  color: $title-color;
+  font-size: 7rem;
+  border-bottom: solid white 2px;
+  margin-left: 400px;
+  margin-right: 400px;
+}
+.titleText {
+  color: $title-text;
+  font-size: 2rem;
+}
+
+.info1 {
+  background-color: $info1-background;
+  grid-area: info1;
+  text-align: left;
+  display: grid;
+  grid-template-columns: 0.4fr 1fr 1fr 0.4fr;
+  grid-template-areas: ". image text .";
+}
+
+.info2 {
+  background-color: $info2-background;
+  grid-area: info2;
+  text-align: right;
+  display: grid;
+  grid-template-columns: 0.4fr 1fr 1fr 0.4fr;
+  grid-template-areas: ". text image .";
+}
+
+.info3 {
+  background-color: $info3-background;
+  grid-area: info3;
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+}
+
+.textbox {
+  grid-area: text;
+  
+  display: grid;
+  color: $text-color;
+  grid-template-rows: 0.2fr 0.2fr 1fr 0.2fr;
+  grid-template-areas: "." "textHeader" "textBody" ".";
+}
+
+.textHeader {
+  text-shadow: 2px 4px 3px rgba(0,0,0,0.3);
+  font-size: 3rem;
+  grid-area: textHeader;
+}
+
+.textBody {
+  text-shadow: 2px 4px 3px rgba(0,0,0,0.3);
+  font-weight: bolder;
+  grid-area: textBody;
+  font-size: 1.2rem;
+
+}
