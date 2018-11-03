@@ -28,7 +28,7 @@ self.__precacheManifest = [
     "url": "/kickstarter-app/static/css/main.55914961.chunk.css"
   },
   {
-    "revision": "88bdf9b40311f77abd1e3fa6884cc4f3",
+    "revision": "2dc1a9763bd4854198b84224c6c805f5",
     "url": "/kickstarter-app/index.html"
   }
 ];
